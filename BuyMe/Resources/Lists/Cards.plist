@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>profit</key>
+		<real>0.0001</real>
+		<key>currency</key>
+		<integer>1</integer>
+		<key>price</key>
+		<integer>80</integer>
+		<key>name</key>
+		<string>AMD Radeon RX 550</string>
+		<key>id</key>
+		<string>550</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.0002</real>
+		<key>currency</key>
+		<integer>1</integer>
+		<key>price</key>
+		<integer>100</integer>
+		<key>name</key>
+		<string>AMD Radeon RX 560</string>
+		<key>id</key>
+		<string>560</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.00025</real>
+		<key>currency</key>
+		<integer>1</integer>
+		<key>price</key>
+		<integer>170</integer>
+		<key>name</key>
+		<string>AMD Radeon RX 570</string>
+		<key>id</key>
+		<string>570</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.0005</real>
+		<key>currency</key>
+		<integer>1</integer>
+		<key>price</key>
+		<integer>230</integer>
+		<key>name</key>
+		<string>AMD Radeon RX 580</string>
+		<key>id</key>
+		<string>580</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.0001</real>
+		<key>currency</key>
+		<integer>0</integer>
+		<key>price</key>
+		<integer>110</integer>
+		<key>name</key>
+		<string>Nvidia GeForce GTX 1050</string>
+		<key>id</key>
+		<string>1050</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.00015</real>
+		<key>currency</key>
+		<integer>0</integer>
+		<key>price</key>
+		<integer>140</integer>
+		<key>name</key>
+		<string>Nvidia GeForce GTX 1050 Ti</string>
+		<key>id</key>
+		<string>1050 Ti</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.0002</real>
+		<key>currency</key>
+		<integer>0</integer>
+		<key>price</key>
+		<integer>250</integer>
+		<key>name</key>
+		<string>Nvidia GeForce GTX 1060</string>
+		<key>id</key>
+		<string>1060</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.0005</real>
+		<key>currency</key>
+		<integer>0</integer>
+		<key>price</key>
+		<integer>380</integer>
+		<key>name</key>
+		<string>Nvidia GeForce GTX 1070</string>
+		<key>id</key>
+		<string>1070</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.0075</real>
+		<key>currency</key>
+		<integer>0</integer>
+		<key>price</key>
+		<integer>500</integer>
+		<key>name</key>
+		<string>Nvidia GeForce GTX 1080</string>
+		<key>id</key>
+		<string>1080</string>
+	</dict>
+	<dict>
+		<key>profit</key>
+		<real>0.001</real>
+		<key>currency</key>
+		<integer>0</integer>
+		<key>price</key>
+		<integer>700</integer>
+		<key>name</key>
+		<string>Nvidia GeForce GTX 1080 Ti</string>
+		<key>id</key>
+		<string>1080 Ti</string>
+	</dict>
+</array>
+</plist>
