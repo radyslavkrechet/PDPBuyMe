@@ -1,5 +1,12 @@
 <h1><img src="https://github.com/radyslavkrechet/PDPBuyMe/blob/master/BuyMe/Resources/Assets/Assets.xcassets/AppIcon.appiconset/Untitled.png" width="23" height="23">BuyMe</h1>
 
+<p float="left">
+  <img src="/Screenshots/4.PNG" width="200px" />
+  <img src="/Screenshots/2.PNG" width="200px" />
+  <img src="/Screenshots/3.PNG" width="200px" />
+  <img src="/Screenshots/5.PNG" width="200px" />
+</p>
+
 ### Code examples for the In-App Purchase features: ###
 
 * Consumable
